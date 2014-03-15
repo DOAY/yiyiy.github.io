@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-03-15T10:32:43+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[YNS Blog]]></title>
+  <link href="http://yiyiy.github.io/atom.xml" rel="self"/>
+  <link href="http://yiyiy.github.io/"/>
+  <updated>2014-03-15T10:40:28+08:00</updated>
+  <id>http://yiyiy.github.io/</id>
   <author>
     <name><![CDATA[YNS]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Post Blog--yns]]></title>
-    <link href="http://yoursite.com/blog/2014/03/15/my-first-post-blog-yns/"/>
+    <link href="http://yiyiy.github.io/blog/2014/03/15/my-first-post-blog-yns/"/>
     <updated>2014-03-15T10:30:53+08:00</updated>
-    <id>http://yoursite.com/blog/2014/03/15/my-first-post-blog-yns</id>
+    <id>http://yiyiy.github.io/blog/2014/03/15/my-first-post-blog-yns</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
